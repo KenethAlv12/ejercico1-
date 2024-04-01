@@ -1,0 +1,22 @@
+&numero1 = 5;
+$numero2 = 10:
+&numero = &numero1 + &numero2;
+hecho "la suma de &numero1 y &numero2 es &suma";
+
+#siclo if de toda la vid
+if(&numero > 0){
+echo "El numero positivo";
+} elseif($numero < 0){
+echo "El numero es negativo";
+} else{
+echo "el numero es cero"
+}
+
+#Siclo for 
+ for(&i = 1;  &i <= 10; &i++){
+hecho &i . "<br>"
+ }
+
+#suludo
+&numero = &_POST['nombre'];
+echo "Hola, &nombre!";
