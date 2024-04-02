@@ -14,7 +14,7 @@ echo "el numero es cero"
 
 #Siclo for 
  for(&i = 1;  &i <= 10; &i++){
-hecho &i . "<br>"
+hecho &i . "<br>" nos sirve para un salto de linea 
  }
 
 #suludo
